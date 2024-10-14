@@ -6,8 +6,6 @@ Throughout this series, you'll not only learn core functional programming princi
 Whether you're just starting your programming journey or want to add a functional language to your skillset, this series is your go-to resource for mastering Racket.
 Here's a breakdown of the topics covered in this series:
 
-<InArticleAd />
-
 ## Part 1: [Introduction to Scheme/Racket Programming](https://learnhowto.vercel.app/blog/programming/schema/racket/Introduction-to-scheme-racket-programming-series-part-1)
 Introduce Scheme and Racket, set up the development environment, and cover the basics.
 - What is Scheme and Racket? (Brief history, features)
@@ -50,8 +48,6 @@ Understand conditional expressions and looping structures.
 ### Resources:
 - Video: Control flow and recursion
 - GitHub: Example code covering control flow constructs
-
-<InArticleAd />
 
 ## Part 5: Higher-Order Functions
 Delve deeper into advanced functional programming concepts.
