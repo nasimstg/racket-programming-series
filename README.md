@@ -17,7 +17,7 @@ Introduce Scheme and Racket, set up the development environment, and cover the b
 
 ### Resources:
 - Video: [Introduction to the series and setup guide](https://www.youtube.com/@atnasimstgyt)
-- GitHub: Sample ["Hello World!"](https://github.com/nasimstg/Racket-Language) and environment setup instructions
+- GitHub: Sample ["Hello World!"](https://github.com/nasimstg/racket-programming-series/blob/main/Part%201%20Introduction%20to%20Scheme%20Racket%20Programming/1%20A%20Hello%20World%20.rkt) and environment setup instructions
 
 ## Part 2: Functional Programming Concepts in Racket
 Introduce the functional paradigm and its application in Racket.
