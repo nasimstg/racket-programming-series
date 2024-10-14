@@ -1,23 +1,21 @@
-#lang racket ; #lang racket is the language of the file
+#lang racket
 
-; Comments
-#| This is a multi
- line comment |#
+; This is a comment
+#| This is a
+   block
+   comment |#
 
-; Expression
-(+ 1 2) ; 3
+; Self evaluating expressions
+1
+"Hello, World!"
 
-; Nested expression
-(+ 1 ; outer expression
-   (* 2 3) ; inner expression returns 6
-   ) ; 7
+; simple expressions
+(+ 1 2)
+(+ 1 2 3 4 5)
+(- 5 3)
+(* 2 3)
+(/ 6 2)
 
-; Hello world program
-
-(display "Hello, World!") ; Hello, World!
-(newline) ; new line
-
-(displayln "Hello, World!") ; Hello, World!
-
-(display (string-append "Hello, " "World!")) ; Hello, World!
-
+; nested expressions
+(+ 1 (* 2 3))
+(+ 1 (* 2 (- 5 3)))
