@@ -1,4 +1,4 @@
-# [Read the original article<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" color="white" width="50" height="50">](https://learnhowto.vercel.app/blog/programming/schema/racket/blog-series-schema-racket-programming-video-github-course-repository)
+# [Read the original article<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" color="red" width="40" height="40">](https://learnhowto.vercel.app/blog/programming/schema/racket/blog-series-schema-racket-programming-video-github-course-repository)
 
 
 This series is designed for students and developers new to the language, offering a step-by-step approach to mastering Racket. From setting up your development environment to understanding advanced concepts like macros, recursion, and higher-order functions, this course will equip you with all the tools you need to write efficient, elegant, and powerful Racket programs.
