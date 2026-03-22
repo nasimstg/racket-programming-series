@@ -1,0 +1,13 @@
+#lang datalog
+
+; Facts
+parent(john, douglas).
+parent(john, bob).
+parent(douglas, anna).
+
+; Rules
+ancestor(A, B) :- parent(A, B).
+ancestor(A, B) :- parent(A, X), ancestor(X, B).
+
+; Query: Who are john's ancestors?
+ancestor(john, A)?
